@@ -145,9 +145,10 @@ This project is developed for educational, research, and demonstration purposes.
 
 ---
 
-## Author
+## Contributors
 
 **Mohammed Afnan Sayeed**
+**Milind A Devoor**
 
 Bachelor of Technology (Computer Science & Engineering – Artificial Intelligence & Machine Learning)
 
